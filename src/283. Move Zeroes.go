@@ -1,6 +1,6 @@
 // 283. Move Zeroes
 
-package main
+package src
 
 import "fmt"
 

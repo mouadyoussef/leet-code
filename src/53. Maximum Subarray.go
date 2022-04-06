@@ -1,6 +1,6 @@
 // 53. Maximum Subarray
 
-package main
+package src
 
 import (
 	"fmt"

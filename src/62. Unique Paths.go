@@ -1,6 +1,6 @@
 // 62. Unique Paths
 
-package main
+package src
 
 import "fmt"
 
